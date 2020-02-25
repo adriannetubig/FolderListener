@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FolderListenerDaemon": {
+      "commandName": "Project",
+      "commandLineArgs": "D:\\SharedFolder\\"
+    }
+  }
+}
